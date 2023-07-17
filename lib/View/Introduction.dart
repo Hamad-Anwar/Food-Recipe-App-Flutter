@@ -117,7 +117,6 @@ class _IntroductionState extends State<Introduction> {
         indicators.add(_indicator(false));
       }
     }
-
     return indicators;
   }
   onTap(){
